@@ -29,6 +29,7 @@
     "apollo-link": "^1.2.2",
     "apollo-link-error": "^1.1.0",
     "apollo-link-http": "^1.5.4",
+    "expo": "^31.0.6",
     "fbjs": "^0.8.16",
     "graphql": "^0.13.2",
     "graphql-tag": "^2.9.2",

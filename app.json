@@ -1,4 +1,11 @@
 {
-  "name": "Food",
-  "displayName": "Food"
+  "expo": {
+    "name": "foodsy",
+    "slug": "foodsy",
+    "sdkVersion": "31.0.0",
+    "privacy": "public",
+    "version": "0.1.0",
+    "description": "",
+    "githubUrl": "https://github.com/cozmoc/foodsy"
+  }
 }
